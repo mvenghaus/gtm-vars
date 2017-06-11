@@ -7,7 +7,7 @@ Google Remarketing - Tag Params
 Custom Javascript
 
 ## Dependencies
-Variable "Page Type" has be created
+Variable "Page Type" must exist
 
 ## Code
 	function() {
