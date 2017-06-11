@@ -6,6 +6,9 @@ Purchase Subtotal
 ## Type
 Custom Javascript
 
+## Dependencies
+none
+
 ## Code
     function () {
         var ecommerce = {{Ecommerce}};
