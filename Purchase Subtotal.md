@@ -7,7 +7,7 @@ Purchase Subtotal
 Custom Javascript
 
 ## Dependencies
-none
+Enhanced Ecommerce (UA)
 
 ## Code
     function () {

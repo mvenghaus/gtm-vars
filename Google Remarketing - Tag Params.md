@@ -7,7 +7,7 @@ Google Remarketing - Tag Params
 Custom Javascript
 
 ## Dependencies
-Variable "Page Type" must exist
+Enhanced Ecommerce (UA), Variable "Page Type" must exist
 
 ## Code
 	function() {
